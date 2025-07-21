@@ -2,7 +2,7 @@
 
 <div>
 
-**Software Engineering Student @ BSUIR (FCSiS)**  
+**Software Engineering Student @ BSUIR**  
 `Systems Programming` | `Full-Stack Development` | `Mobile Engineering`
 
 </div>
