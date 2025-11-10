@@ -2,16 +2,7 @@
 
 <div>
 
-
-## 📊 GitHub Stats
-<div align="center">
-
-[![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muttell&theme=github_dark)](https://github.com/muttell)
-[![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muttell&theme=github_dark)](https://github.com/muttell)
-
-</div>
-
-## 🌐 Languages & Communication
+## 🌐 Languages 
 
 <div align="center">
 
