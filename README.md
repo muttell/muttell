@@ -2,36 +2,6 @@
 
 <div>
 
-**Software Engineering Student @ BSUIR**  
-`Systems Programming` | `Full-Stack Development` | `Mobile Engineering`
-
-</div>
-
-## 💻 **Tech Stack**
-
-<div align="center">
-
-### 🔧 **Systems & Low-Level**
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Assembly](https://img.shields.io/badge/ASM_FASM-2C2137?logo=assemblyscript&logoColor=white&style=for-the-badge)
-
-### 🌐 **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-### 📱 **Mobile Development**
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-
-### 🛠 **Development Tools**
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
-</div>
 
 ## 📊 GitHub Stats
 <div align="center">
